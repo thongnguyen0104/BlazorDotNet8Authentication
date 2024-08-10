@@ -1,4 +1,4 @@
-namespace WebApi
+namespace SharedLibrary.Models
 {
     public class WeatherForecast
     {
